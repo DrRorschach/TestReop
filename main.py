@@ -1,14 +1,5 @@
-egal ich will nur testen ob sich was lesen lässt
+This is a PYTHON-Test-File for the GitHub-Scraper
 
+password= PY_TEST_FILE
 
-
-password=1
-
-passwort=2
-
-amdin= admin
-
-
-
-user= albert
-User= Badmin
+User= USER_PY
